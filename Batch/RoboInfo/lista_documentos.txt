@@ -1,0 +1,208 @@
+C:\Users\Dash\Documents\Directorio de intercambio Bluetooth
+C:\Users\Dash\Documents\IISExpress
+C:\Users\Dash\Documents\My Web Sites
+C:\Users\Dash\Documents\Rainmeter
+C:\Users\Dash\Documents\SQL Server Management Studio
+C:\Users\Dash\Documents\Visual Studio 2017
+C:\Users\Dash\Documents\Visual Studio 2022
+C:\Users\Dash\Documents\IISExpress\config
+C:\Users\Dash\Documents\IISExpress\Logs
+C:\Users\Dash\Documents\IISExpress\TraceLogFiles
+C:\Users\Dash\Documents\IISExpress\config\applicationhost.config
+C:\Users\Dash\Documents\IISExpress\config\aspnet.config
+C:\Users\Dash\Documents\IISExpress\config\redirection.config
+C:\Users\Dash\Documents\My Web Sites\WebSite1
+C:\Users\Dash\Documents\My Web Sites\WebSite1\bkg-blu.jpg
+C:\Users\Dash\Documents\My Web Sites\WebSite1\iis.png
+C:\Users\Dash\Documents\My Web Sites\WebSite1\iisstart.htm
+C:\Users\Dash\Documents\My Web Sites\WebSite1\msweb-brand.png
+C:\Users\Dash\Documents\My Web Sites\WebSite1\w-brand.png
+C:\Users\Dash\Documents\Rainmeter\Skins
+C:\Users\Dash\Documents\Rainmeter\Skins\@Vault
+C:\Users\Dash\Documents\Rainmeter\Skins\illustro
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer
+C:\Users\Dash\Documents\Rainmeter\Skins\@Vault\Plugins
+C:\Users\Dash\Documents\Rainmeter\Skins\@Vault\Plugins\Chameleon
+C:\Users\Dash\Documents\Rainmeter\Skins\@Vault\Plugins\GPMDPPlugin
+C:\Users\Dash\Documents\Rainmeter\Skins\@Vault\Plugins\Mouse
+C:\Users\Dash\Documents\Rainmeter\Skins\@Vault\Plugins\SysColor
+C:\Users\Dash\Documents\Rainmeter\Skins\@Vault\Plugins\WebNowPlaying
+C:\Users\Dash\Documents\Rainmeter\Skins\@Vault\Plugins\Chameleon\1.5.0.0
+C:\Users\Dash\Documents\Rainmeter\Skins\@Vault\Plugins\Chameleon\1.5.0.0\32bit
+C:\Users\Dash\Documents\Rainmeter\Skins\@Vault\Plugins\Chameleon\1.5.0.0\64bit
+C:\Users\Dash\Documents\Rainmeter\Skins\@Vault\Plugins\Chameleon\1.5.0.0\32bit\Chameleon.dll
+C:\Users\Dash\Documents\Rainmeter\Skins\@Vault\Plugins\Chameleon\1.5.0.0\64bit\Chameleon.dll
+C:\Users\Dash\Documents\Rainmeter\Skins\@Vault\Plugins\GPMDPPlugin\1.4.1.0
+C:\Users\Dash\Documents\Rainmeter\Skins\@Vault\Plugins\GPMDPPlugin\1.4.1.0\32bit
+C:\Users\Dash\Documents\Rainmeter\Skins\@Vault\Plugins\GPMDPPlugin\1.4.1.0\64bit
+C:\Users\Dash\Documents\Rainmeter\Skins\@Vault\Plugins\GPMDPPlugin\1.4.1.0\32bit\GPMDPPlugin.dll
+C:\Users\Dash\Documents\Rainmeter\Skins\@Vault\Plugins\GPMDPPlugin\1.4.1.0\64bit\GPMDPPlugin.dll
+C:\Users\Dash\Documents\Rainmeter\Skins\@Vault\Plugins\Mouse\3.2.0
+C:\Users\Dash\Documents\Rainmeter\Skins\@Vault\Plugins\Mouse\3.2.0\32bit
+C:\Users\Dash\Documents\Rainmeter\Skins\@Vault\Plugins\Mouse\3.2.0\64bit
+C:\Users\Dash\Documents\Rainmeter\Skins\@Vault\Plugins\Mouse\3.2.0\32bit\Mouse.dll
+C:\Users\Dash\Documents\Rainmeter\Skins\@Vault\Plugins\Mouse\3.2.0\64bit\Mouse.dll
+C:\Users\Dash\Documents\Rainmeter\Skins\@Vault\Plugins\SysColor\1.1.0.15
+C:\Users\Dash\Documents\Rainmeter\Skins\@Vault\Plugins\SysColor\1.1.0.15\32bit
+C:\Users\Dash\Documents\Rainmeter\Skins\@Vault\Plugins\SysColor\1.1.0.15\64bit
+C:\Users\Dash\Documents\Rainmeter\Skins\@Vault\Plugins\SysColor\1.1.0.15\32bit\SysColor.dll
+C:\Users\Dash\Documents\Rainmeter\Skins\@Vault\Plugins\SysColor\1.1.0.15\64bit\SysColor.dll
+C:\Users\Dash\Documents\Rainmeter\Skins\@Vault\Plugins\WebNowPlaying\0.4.0.0
+C:\Users\Dash\Documents\Rainmeter\Skins\@Vault\Plugins\WebNowPlaying\0.4.0.0\32bit
+C:\Users\Dash\Documents\Rainmeter\Skins\@Vault\Plugins\WebNowPlaying\0.4.0.0\64bit
+C:\Users\Dash\Documents\Rainmeter\Skins\@Vault\Plugins\WebNowPlaying\0.4.0.0\32bit\WebNowPlaying.dll
+C:\Users\Dash\Documents\Rainmeter\Skins\@Vault\Plugins\WebNowPlaying\0.4.0.0\64bit\WebNowPlaying.dll
+C:\Users\Dash\Documents\Rainmeter\Skins\illustro\@Resources
+C:\Users\Dash\Documents\Rainmeter\Skins\illustro\Clock
+C:\Users\Dash\Documents\Rainmeter\Skins\illustro\Disk
+C:\Users\Dash\Documents\Rainmeter\Skins\illustro\Google
+C:\Users\Dash\Documents\Rainmeter\Skins\illustro\Network
+C:\Users\Dash\Documents\Rainmeter\Skins\illustro\Recycle Bin
+C:\Users\Dash\Documents\Rainmeter\Skins\illustro\System
+C:\Users\Dash\Documents\Rainmeter\Skins\illustro\Welcome
+C:\Users\Dash\Documents\Rainmeter\Skins\illustro\@Resources\Background.png
+C:\Users\Dash\Documents\Rainmeter\Skins\illustro\Clock\Clock.ini
+C:\Users\Dash\Documents\Rainmeter\Skins\illustro\Disk\1 Disk.ini
+C:\Users\Dash\Documents\Rainmeter\Skins\illustro\Disk\2 Disks.ini
+C:\Users\Dash\Documents\Rainmeter\Skins\illustro\Google\Google.ini
+C:\Users\Dash\Documents\Rainmeter\Skins\illustro\Network\Network.ini
+C:\Users\Dash\Documents\Rainmeter\Skins\illustro\Recycle Bin\Recycle Bin.ini
+C:\Users\Dash\Documents\Rainmeter\Skins\illustro\System\System.ini
+C:\Users\Dash\Documents\Rainmeter\Skins\illustro\Welcome\Background.png
+C:\Users\Dash\Documents\Rainmeter\Skins\illustro\Welcome\Welcome.ini
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\.gitattributes
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\.gitignore
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\.installer
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\@Resources
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\Background
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\CODE_OF_CONDUCT.md
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\ISSUE_TEMPLATE.md
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\LICENSE
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\README.md
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\Settings
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\Song Information
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\visualizer.ini
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\.installer\plugins
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\.installer\RMSKIN.bmp
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\.installer\RMSKIN.psd
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\.installer\plugins\x32
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\.installer\plugins\x64
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\.installer\plugins\x32\Chameleon.dll
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\.installer\plugins\x32\GPMDPPlugin.dll
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\.installer\plugins\x32\Mouse.dll
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\.installer\plugins\x32\SysColor.dll
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\.installer\plugins\x32\WebNowPlaying.dll
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\.installer\plugins\x64\Chameleon.dll
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\.installer\plugins\x64\GPMDPPlugin.dll
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\.installer\plugins\x64\Mouse.dll
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\.installer\plugins\x64\SysColor.dll
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\.installer\plugins\x64\WebNowPlaying.dll
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\@Resources\addons
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\@Resources\fonts
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\@Resources\images
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\@Resources\include
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\@Resources\scripts
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\@Resources\variables.ini
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\@Resources\addons\RainRGB4.exe
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\@Resources\fonts\Montserrat-Bold.otf
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\@Resources\fonts\Montserrat-Light.otf
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\@Resources\fonts\Montserrat-Regular.otf
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\@Resources\fonts\Montserrat-SemiBold.otf
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\@Resources\images\arrow_right.png
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\@Resources\images\checkbox.png
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\@Resources\images\checkbox_empty.png
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\@Resources\images\coverWeb.png
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\@Resources\images\GPM_logo.png
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\@Resources\images\next.png
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\@Resources\images\nocover.png
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\@Resources\images\pause.png
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\@Resources\images\play.png
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\@Resources\images\previous.png
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\@Resources\images\WebNowPlaying_logo.png
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\@Resources\include\MeasureBands.inc
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\@Resources\include\MeasureBandsSmoothed.inc
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\@Resources\include\MeasureMediaGPMDP.inc
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\@Resources\include\MeasureMediaNowPlaying.inc
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\@Resources\include\MeasureMediaWeb.inc
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\@Resources\include\MeasureRotate.inc
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\@Resources\include\MeasureStyling.inc
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\@Resources\include\MeasureUpdateChecker.inc
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\@Resources\include\MeterBars.inc
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\@Resources\include\MeterProgressBar.inc
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\@Resources\include\MeterSettingsMenu.inc
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\@Resources\include\MeterShadowBars.inc
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\@Resources\scripts\AudioDeviceList.lua
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\@Resources\scripts\Factory.lua
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\@Resources\scripts\Refresher.lua
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\@Resources\scripts\Rotate.lua
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\Background\background.ini
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\Settings\general.ini
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\Settings\mediaplayer.ini
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\Settings\misc
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\Settings\styling.ini
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\Settings\visualizer.ini
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\Settings\misc\devicelist
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\Settings\misc\init
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\Settings\misc\Intro.ini
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\Settings\misc\update
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\Settings\misc\devicelist\GetAudioDevices.ini
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\Settings\misc\init\InitializeSkin.ini
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\Settings\misc\update\UpdateInfo.ini
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\Song Information\Cover
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\Song Information\Left.ini
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\Song Information\Right.ini
+C:\Users\Dash\Documents\Rainmeter\Skins\monstercat-visualizer\Song Information\Cover\Cover.ini
+C:\Users\Dash\Documents\SQL Server Management Studio\Code Snippets
+C:\Users\Dash\Documents\SQL Server Management Studio\Code Snippets\SQL
+C:\Users\Dash\Documents\SQL Server Management Studio\Code Snippets\SQL\My Code Snippets
+C:\Users\Dash\Documents\Visual Studio 2017\ArchitectureExplorer
+C:\Users\Dash\Documents\Visual Studio 2017\Backup Files
+C:\Users\Dash\Documents\Visual Studio 2017\Templates
+C:\Users\Dash\Documents\Visual Studio 2017\Backup Files\Solution1
+C:\Users\Dash\Documents\Visual Studio 2017\Templates\ItemTemplates
+C:\Users\Dash\Documents\Visual Studio 2017\Templates\ProjectTemplates
+C:\Users\Dash\Documents\Visual Studio 2017\Templates\ItemTemplates\JavaScript
+C:\Users\Dash\Documents\Visual Studio 2017\Templates\ItemTemplates\TypeScript
+C:\Users\Dash\Documents\Visual Studio 2017\Templates\ProjectTemplates\JavaScript
+C:\Users\Dash\Documents\Visual Studio 2017\Templates\ProjectTemplates\TypeScript
+C:\Users\Dash\Documents\Visual Studio 2022\Code Snippets
+C:\Users\Dash\Documents\Visual Studio 2022\Templates
+C:\Users\Dash\Documents\Visual Studio 2022\Code Snippets\JavaScript
+C:\Users\Dash\Documents\Visual Studio 2022\Code Snippets\SQL_SSDT
+C:\Users\Dash\Documents\Visual Studio 2022\Code Snippets\TypeScript
+C:\Users\Dash\Documents\Visual Studio 2022\Code Snippets\Visual Basic
+C:\Users\Dash\Documents\Visual Studio 2022\Code Snippets\Visual C#
+C:\Users\Dash\Documents\Visual Studio 2022\Code Snippets\Visual C++
+C:\Users\Dash\Documents\Visual Studio 2022\Code Snippets\Visual Web Developer
+C:\Users\Dash\Documents\Visual Studio 2022\Code Snippets\XAML
+C:\Users\Dash\Documents\Visual Studio 2022\Code Snippets\XML
+C:\Users\Dash\Documents\Visual Studio 2022\Code Snippets\JavaScript\My Code Snippets
+C:\Users\Dash\Documents\Visual Studio 2022\Code Snippets\SQL_SSDT\My Code Snippets
+C:\Users\Dash\Documents\Visual Studio 2022\Code Snippets\TypeScript\My Code Snippets
+C:\Users\Dash\Documents\Visual Studio 2022\Code Snippets\Visual Basic\My Code Snippets
+C:\Users\Dash\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets
+C:\Users\Dash\Documents\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets
+C:\Users\Dash\Documents\Visual Studio 2022\Code Snippets\Visual Web Developer\My CSS Snippets
+C:\Users\Dash\Documents\Visual Studio 2022\Code Snippets\Visual Web Developer\My HTML Snippets
+C:\Users\Dash\Documents\Visual Studio 2022\Code Snippets\XAML\My XAML Snippets
+C:\Users\Dash\Documents\Visual Studio 2022\Code Snippets\XML\My Xml Snippets
+C:\Users\Dash\Documents\Visual Studio 2022\Templates\ItemTemplates
+C:\Users\Dash\Documents\Visual Studio 2022\Templates\ProjectTemplates
+C:\Users\Dash\Documents\Visual Studio 2022\Templates\ItemTemplates\C#
+C:\Users\Dash\Documents\Visual Studio 2022\Templates\ItemTemplates\Extensibilidad
+C:\Users\Dash\Documents\Visual Studio 2022\Templates\ItemTemplates\JavaScript
+C:\Users\Dash\Documents\Visual Studio 2022\Templates\ItemTemplates\Proyecto de Visual C++
+C:\Users\Dash\Documents\Visual Studio 2022\Templates\ItemTemplates\Service Fabric
+C:\Users\Dash\Documents\Visual Studio 2022\Templates\ItemTemplates\TypeScript
+C:\Users\Dash\Documents\Visual Studio 2022\Templates\ItemTemplates\Visual Basic
+C:\Users\Dash\Documents\Visual Studio 2022\Templates\ItemTemplates\Visual C++
+C:\Users\Dash\Documents\Visual Studio 2022\Templates\ItemTemplates\Visual Web Developer
+C:\Users\Dash\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#
+C:\Users\Dash\Documents\Visual Studio 2022\Templates\ProjectTemplates\Extensibilidad
+C:\Users\Dash\Documents\Visual Studio 2022\Templates\ProjectTemplates\JavaScript
+C:\Users\Dash\Documents\Visual Studio 2022\Templates\ProjectTemplates\Proyecto de Visual C++
+C:\Users\Dash\Documents\Visual Studio 2022\Templates\ProjectTemplates\Service Fabric
+C:\Users\Dash\Documents\Visual Studio 2022\Templates\ProjectTemplates\TypeScript
+C:\Users\Dash\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual Basic
+C:\Users\Dash\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual C++
+C:\Users\Dash\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual Web Developer

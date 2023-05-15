@@ -1,0 +1,6 @@
+Virus Gusano:
+
+este virus ejecuta multiples bat.
+el primer bat sirve para distarer generando infinitas pestañas en chrome
+mientras el segundo bat crea directorios infinitos en multiples carpetas del 
+usuario incluyendo carpetas C:/
